@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+  <meta name="description" content="サークル彳（ぎょうにんべん）の Web サイト。自主制作アニメーション作品『死んだハズの』や楽曲制作・漫画を中心に活動。" />
+  <meta name="keywords" content="Gyonimben,gymb,行人偏,ぎょうにんべん,彳" />
+  <base href="." />
+  <title>彳 - 通販情報</title>
+  <link rel="stylesheet" href="/css/main-v2.css">
+  <meta name="google-site-verification" content="bcuXWdeP1V6zU3cnazIO41382DPwxJloKQsf2xszuIs" />
+</head>
+<body>
+  <div id="gymb">サークル彳（ぎょうにんべん）の Web サイト。自主制作アニメーション作品『ニコラのこころ』『死んだハズの』や楽曲制作・漫画を中心に活動。</div>
+  <div id="highlight">&nbsp;</div>
+  <div id="notebook">  
+    <div id="nav">
+      <div id="logo"><a href="/"></a></div>
+      <ul id="main_menu">
+        <li><a href="/">Upcoming</a></li>
+        <li><a href="/nicola">ニコラのこころ</a></li>
+        <li><a href="/shindahazuno">死んだハズの</a></li>
+        <li><a href="/works">Works</a></li>
+        <li><a href="/store">Store</a></li>
+        <li><a href="/schedule.html">Schedule</a></li>
+      </ul>
+      <div id="webclap"><form action="http://clap.webclap.com/clap.php?id=shiorimo" method="post" target="_blank">
+  <input id="webc" type="submit" value="WEB 拍手" onclick="window.open('http://clap.webclap.com/clap.php?id=shiorimo','webclap','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes');return false;"> 
+</form></div>
+    </div>
+    <div id="content">
+<link href="/css/store.css" type="text/css" rel="stylesheet" />
+
+<h2>STORE</h2>
+<p>これまでイベントなどで頒布したDVDなどの一覧です。在庫のあるものは今時自家通販みたいなことやってます。</p>
+
+<p>ご希望のものがあれば、「作品名」「個数」を記載の上、shiorimo彳gymb.jp (彳を@に置き換え)までご連絡ください。</p>
+
+<ul>
+<li><a href="#nicola-ep01">ニコラのこころ 第1話</a></li>
+<li><a href="#shindahazuno-one-or-two">死んだハズの #1/#2</a></li>
+<li><a href="#shindahazuno-02">死んだハズの #2</a></li>
+<li><a href="#shindahazuno-01">死んだハズの #1</a></li>
+</ul>
+
+
+<div class="dvd" id="nicola-ep01">
+  <div class="package" style="width:200px; float:left; padding-right: 1em">
+    <img src="/img/works/dvdjacket-nicola-ep01.png" />
+  </div>
+  <table style="width: initial;">
+  <tr>
+    <th>作品名</th>
+    <td>ニコラのこころ 第1話</td>
+  </tr>
+  <tr>
+    <th>作品時間</th>
+    <td>4分13秒</td>
+  </tr>
+  <tr>
+    <th>形態</th>
+    <td>クラフトジャケット入りDVD</td>
+  </tr>
+  <tr>
+    <th>在庫状況</th>
+    <td>あり</td>
+  </tr>
+  <tr>
+    <th>頒布価格</th>
+    <td>\300</td>
+  </tr>
+  <tr>
+    <th>Youtube</th>
+    <td><a href="https://www.youtube.com/watch?v=JJ9GuGkHnuk" target="_blank">予告編</a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>天才魔導師ニコラが戦いに敗れたのは、ほんの小さな油断が原因だった。</p>
+
+<p>挫折を味わい「魔導師をやめる」と言う彼女を立ち直らせるため、精霊アノンが与えた"新しい魔法"は、「キライな人と話して感じたイライラを魔力に換える」という不思議な力だった……。</p>
+
+<p><strong>声の出演</strong></p>
+
+<ul>
+<li>桜瀬 尋(ニコラ役)</li>
+<li>凪(アノン役)</li>
+<li>夕凪茜(ミルフィーユ役、ラプラス役)</li>
+</ul>
+
+<p><strong>制作スタッフ</strong></p>
+
+<ul>
+<li>しおりも</li>
+</ul>
+
+</td>
+  </tr>
+  </table>
+  <div style="clear:both;">&nbsp;</div>
+</div>
+
+<div class="dvd" id="shindahazuno-one-or-two">
+  <div class="package" style="width:200px; float:left; padding-right: 1em">
+    <img src="/img/works/dvdjacket-shindahazuno-one-or-two.png" />
+  </div>
+  <table style="width: initial;">
+  <tr>
+    <th>作品名</th>
+    <td>死んだハズの #1/#2</td>
+  </tr>
+  <tr>
+    <th>作品時間</th>
+    <td>13分13秒 + 4分13秒</td>
+  </tr>
+  <tr>
+    <th>形態</th>
+    <td>クラフトジャケット入りDVD</td>
+  </tr>
+  <tr>
+    <th>在庫状況</th>
+    <td>あり</td>
+  </tr>
+  <tr>
+    <th>頒布価格</th>
+    <td>\300</td>
+  </tr>
+  <tr>
+    <th>Youtube</th>
+    <td>未公開</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>『死んだハズの』と『死んだハズの#2』を1枚のDVDに収録したものです。</p>
+
+</td>
+  </tr>
+  </table>
+  <div style="clear:both;">&nbsp;</div>
+</div>
+
+<div class="dvd" id="shindahazuno-02">
+  <div class="package" style="width:200px; float:left; padding-right: 1em">
+    <img src="/img/works/dvd02.png" />
+  </div>
+  <table style="width: initial;">
+  <tr>
+    <th>作品名</th>
+    <td>死んだハズの #2</td>
+  </tr>
+  <tr>
+    <th>作品時間</th>
+    <td>4分13秒</td>
+  </tr>
+  <tr>
+    <th>形態</th>
+    <td>スリムケース入りDVD</td>
+  </tr>
+  <tr>
+    <th>在庫状況</th>
+    <td>なし</td>
+  </tr>
+  <tr>
+    <th>頒布価格</th>
+    <td>\500</td>
+  </tr>
+  <tr>
+    <th>Youtube</th>
+    <td>未公開</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>ある日、ヒトミに留守番させて病院にいくというモモ。帰ってきた彼女が持っていたCTスキャンに映り込んでいたのは……。</p>
+
+<p>長編シリーズとは別の時間軸で展開する、ちょっとマニアックなネタで綴る短編シリーズ第一弾です。</p>
+
+<p><strong>声の出演</strong></p>
+
+<ul>
+<li>凪(モモ役)</li>
+<li>桜瀬 尋(ヒトミ役)</li>
+</ul>
+
+<p><strong>制作スタッフ</strong></p>
+
+<ul>
+<li>森下詩織</li>
+</ul>
+
+</td>
+  </tr>
+  </table>
+  <div style="clear:both;">&nbsp;</div>
+</div>
+
+<div class="dvd" id="shindahazuno-01">
+  <div class="package" style="width:200px; float:left; padding-right: 1em">
+    <img src="/img/works/dvd01.png" />
+  </div>
+  <table style="width: initial;">
+  <tr>
+    <th>作品名</th>
+    <td>死んだハズの</td>
+  </tr>
+  <tr>
+    <th>作品時間</th>
+    <td>13分13秒</td>
+  </tr>
+  <tr>
+    <th>形態</th>
+    <td>スリムケース入りDVD</td>
+  </tr>
+  <tr>
+    <th>在庫状況</th>
+    <td>なし</td>
+  </tr>
+  <tr>
+    <th>頒布価格</th>
+    <td>\500</td>
+  </tr>
+  <tr>
+    <th>Youtube</th>
+    <td><a href="http://www.youtube.com/watch?v=CapGOhGjYmw" target="_blank">公開中</a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>「私が死にたいのは、誰かに迷惑かけたいからでも、世間で目立ちたいからでもない……」</p>
+
+<p>誰かが私の演技をしてくれたら、誰にも知られずに自分だけ楽になれるとしたら、死ぬって何だろう？生きるって？私たちの終わりのある日常を、ちょっぴり切ない音楽に乗せて。</p>
+
+<p>ダークSFコメディ「死んだハズの」の長編シリーズ第一弾です。</p>
+
+<p><strong>声の出演</strong></p>
+
+<ul>
+<li>凪 (モモ役)</li>
+<li>桜瀬 尋 (ヒトミ役)</li>
+<li>斉藤のの (クラスメイトA, B, C, 母親, 子ども, 教師)</li>
+</ul>
+
+<p><strong>制作スタッフ</strong></p>
+
+<ul>
+<li>森下詩織 (脚本, デザイン, 効果音, アニメーション, その他)</li>
+<li>まんせー (背景, SVGマテリアル)</li>
+<li>tnzk (音楽, 技術考証)</li>
+</ul>
+
+</td>
+  </tr>
+  </table>
+  <div style="clear:both;">&nbsp;</div>
+</div>
+    </div>
+  </div>
+<div id="footer">彳 &copy; '11-'14</div>
+
+
+</body>
+</html>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39456625-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

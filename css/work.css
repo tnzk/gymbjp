@@ -1,0 +1,44 @@
+div#notebook div#nav {
+  float: none;
+  height: auto;
+  width: 100%;
+  margin: 1em auto;
+}
+
+div#notebook div#content {
+  float: none;
+  width: 100%;
+  margin: 1em auto;
+}
+
+body div#highlight {
+}
+
+body div#notebook {
+  margin-top: auto;
+}
+
+body div#logo a:link, body div#logo a:visited, body div#logo a:active, body div#logo a:hover {
+  background-position: left center;
+}
+
+div#notebook {
+  width: 880px;
+}
+
+h2 {
+  text-align: left;
+  letter-spacing: -2px;
+  font-size: 2em;
+}
+
+dt {
+  color: #e83174;
+  font-weight: bold;
+  border-left: #e83174 3px solid;
+  padding-left: 0.8em;
+}
+
+dd {
+  padding: 0.5em;
+}
